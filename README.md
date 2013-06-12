@@ -13,10 +13,10 @@ The test boasts the following features:
 
 * data-driven
 * cross-platform
-* multi-platform support
+* multi-browser support
 * loosely coupled
-* easy maintenance
 * easy to extend
+* easy to maintain
 
 Here is a short video for a quick introduction.
 
