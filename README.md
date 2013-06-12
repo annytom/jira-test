@@ -38,16 +38,15 @@ Last but most important, please install the python binding of
 
 ## Usage
 
-usage: `python run-test-suite.py [-h] [-c CONFIGFILE]`
+To run the test, use `python run-test-suite.py [-h] [-c CONFIGFILE]`
 
-optional arguments:
+You may use the -c switch to specify the test configuration file you
+want to use. The default file is `firefox-test-config.yaml`. (The
+other two for Chrome and IE are not well tested and debugged yet.)
 
-  -h, --help            show this help message and exit
-  
-  -c CONFIGFILE, --configfile CONFIGFILE
-  
-                        provide your YAML file for test configuration here.
-                        
-                        The defalt file is firefox-test-config.yaml which can
-                        
-                        server as an example.
+You may add new test cases to `YAML` files under the `test-input` folder.
+Be careful when modifying the test config files and please follow the
+`YAML` syntax.
+
+Detailed test execution result will be echoed to console. Highlevel
+test result is under the `test-output` folder.
