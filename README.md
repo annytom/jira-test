@@ -20,7 +20,7 @@ The test boasts the following features:
 
 Here is a short video for a quick introduction.
 
-[![ScreenShot](https://raw.github.com/yadongwen/misc-scripts/master/screenshot.jpg)](http://youtu.be/vt5fpE0bzSY)
+[![ScreenShot](https://raw.github.com/yadongwen/misc-scripts/master/screenshot.jpg)](http://youtu.be/E-C9EBM7KmI)
 
 ## Requirements
 
