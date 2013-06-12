@@ -41,8 +41,13 @@ Last but most important, please install the python binding of
 usage: `python run-test-suite.py [-h] [-c CONFIGFILE]`
 
 optional arguments:
+
   -h, --help            show this help message and exit
+  
   -c CONFIGFILE, --configfile CONFIGFILE
+  
                         provide your YAML file for test configuration here.
+                        
                         The defalt file is firefox-test-config.yaml which can
+                        
                         server as an example.
