@@ -18,9 +18,11 @@ The test boasts the following features:
 * easy to extend
 * easy to maintain
 
-Here is a short video for a quick introduction.
+Here is a short video to showcase the test. Please watch with 720pHD.
 
 [![ScreenShot](https://raw.github.com/yadongwen/misc-scripts/master/screenshot.jpg)](http://youtu.be/E-C9EBM7KmI)
+
+
 
 ## Requirements
 
