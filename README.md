@@ -50,3 +50,6 @@ Be careful when modifying the test config files and please follow the
 
 Detailed test execution result will be echoed to console. Highlevel
 test result is under the `test-output` folder.
+
+There is a module called `gen-input-from-raw.py` is provided to generate
+test config `YAML` files from 'raw' YAML files. It's not well tested yet.
