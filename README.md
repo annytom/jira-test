@@ -29,9 +29,9 @@ first download and install `Python2.7.3` from the official
 [website](http://www.python.org/download/releases/2.7.3/), 
 then [download](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pip) and 
 install `pip-1.3.1.win-amd64-py2.7.‌exe`.
-`PyYAML` is also required. Please download and unzip from 
+`PyYAML` is also required. Please download/unzip from 
 [here](http://pyyaml.org/download/pyyaml/PyYAML-3.10.zip), and 
-run `python setup.py install` and `python setup.py test` to install.
+run `python setup.py install`/`python setup.py test` to install.
 Last but most important, please install the python binding of
 `selenium` with `pip install selenium`.
 
